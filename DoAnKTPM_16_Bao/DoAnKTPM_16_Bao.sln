@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_16_Bao", "DoAnKTPM_16_Bao\UnitTest_16_Bao.csproj", "{BB2A63BF-8938-4769-B9C0-9DA34CDF26F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestRadix_16_Bao", "UnitTestBaseConverter_16_Bao\UnitTestRadix_16_Bao.csproj", "{29F0B036-3ACA-401C-9276-7F49BB7ABCAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumWebDriver_16_Bao", "SeleniumWebDriver_16_Bao\SeleniumWebDriver_16_Bao.csproj", "{9EEA596D-7CE6-4462-922A-3EB608987B74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2A63BF-8938-4769-B9C0-9DA34CDF26F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2A63BF-8938-4769-B9C0-9DA34CDF26F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2A63BF-8938-4769-B9C0-9DA34CDF26F2}.Debug|x86.ActiveCfg = Debug|x86
+		{BB2A63BF-8938-4769-B9C0-9DA34CDF26F2}.Debug|x86.Build.0 = Debug|x86
+		{BB2A63BF-8938-4769-B9C0-9DA34CDF26F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2A63BF-8938-4769-B9C0-9DA34CDF26F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2A63BF-8938-4769-B9C0-9DA34CDF26F2}.Release|x86.ActiveCfg = Release|x86
+		{BB2A63BF-8938-4769-B9C0-9DA34CDF26F2}.Release|x86.Build.0 = Release|x86
+		{29F0B036-3ACA-401C-9276-7F49BB7ABCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F0B036-3ACA-401C-9276-7F49BB7ABCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F0B036-3ACA-401C-9276-7F49BB7ABCAC}.Debug|x86.ActiveCfg = Debug|x86
+		{29F0B036-3ACA-401C-9276-7F49BB7ABCAC}.Debug|x86.Build.0 = Debug|x86
+		{29F0B036-3ACA-401C-9276-7F49BB7ABCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F0B036-3ACA-401C-9276-7F49BB7ABCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F0B036-3ACA-401C-9276-7F49BB7ABCAC}.Release|x86.ActiveCfg = Release|x86
+		{29F0B036-3ACA-401C-9276-7F49BB7ABCAC}.Release|x86.Build.0 = Release|x86
+		{9EEA596D-7CE6-4462-922A-3EB608987B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEA596D-7CE6-4462-922A-3EB608987B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEA596D-7CE6-4462-922A-3EB608987B74}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9EEA596D-7CE6-4462-922A-3EB608987B74}.Debug|x86.Build.0 = Debug|Any CPU
+		{9EEA596D-7CE6-4462-922A-3EB608987B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEA596D-7CE6-4462-922A-3EB608987B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EEA596D-7CE6-4462-922A-3EB608987B74}.Release|x86.ActiveCfg = Release|Any CPU
+		{9EEA596D-7CE6-4462-922A-3EB608987B74}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C1F145E-60D5-4515-B100-B4B2E0A63F79}
+	EndGlobalSection
+EndGlobal

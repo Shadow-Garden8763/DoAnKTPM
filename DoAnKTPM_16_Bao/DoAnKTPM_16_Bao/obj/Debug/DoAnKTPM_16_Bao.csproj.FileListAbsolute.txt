@@ -1,0 +1,10 @@
+D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\bin\Debug\DoAnKTPM_16_Bao.exe.config
+D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\bin\Debug\DoAnKTPM_16_Bao.exe
+D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\bin\Debug\DoAnKTPM_16_Bao.pdb
+D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\Debug\DoAnKTPM_16_Bao.csproj.AssemblyReference.cache
+D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\Debug\DoAnKTPM_16_Bao.Nunit_16_Bao.resources
+D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\Debug\DoAnKTPM_16_Bao.Properties.Resources.resources
+D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\Debug\DoAnKTPM_16_Bao.csproj.GenerateResource.cache
+D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\Debug\DoAnKTPM_16_Bao.csproj.CoreCompileInputs.cache
+D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\Debug\DoAnKTPM_16_Bao.exe
+D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\Debug\DoAnKTPM_16_Bao.pdb
