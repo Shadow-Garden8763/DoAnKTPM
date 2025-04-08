@@ -16,7 +16,7 @@ namespace SeleniumWebDriver_16_Bao
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ChucNang4_16_Bao());
+            Application.Run(new ChucNang1_16_Bao());
         }
     }
 }

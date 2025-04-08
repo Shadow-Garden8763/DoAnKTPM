@@ -8,3 +8,13 @@ D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\x86\Debug\DoAnKTPM_16_B
 D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\x86\Debug\DoAnKTPM_16_Bao.pdb
 D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\x86\Debug\UnitTest_16_Bao.csproj.GenerateResource.cache
 D:\Kiem-thu-phan-mem\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\x86\Debug\UnitTest_16_Bao.csproj.CoreCompileInputs.cache
+E:\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\bin\x86\Debug\DoAnKTPM_16_Bao.exe.config
+E:\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\bin\x86\Debug\DoAnKTPM_16_Bao.exe
+E:\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\bin\x86\Debug\DoAnKTPM_16_Bao.pdb
+E:\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\x86\Debug\UnitTest_16_Bao.csproj.AssemblyReference.cache
+E:\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\x86\Debug\DoAnKTPM_16_Bao.Nunit_16_Bao.resources
+E:\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\x86\Debug\DoAnKTPM_16_Bao.Properties.Resources.resources
+E:\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\x86\Debug\UnitTest_16_Bao.csproj.GenerateResource.cache
+E:\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\x86\Debug\UnitTest_16_Bao.csproj.CoreCompileInputs.cache
+E:\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\x86\Debug\DoAnKTPM_16_Bao.exe
+E:\DoAnKTPM_16_Bao\DoAnKTPM_16_Bao\obj\x86\Debug\DoAnKTPM_16_Bao.pdb

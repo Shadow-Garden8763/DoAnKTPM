@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\DoAnKTPM_16_Bao\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F0B036-3ACA-401C-9276-7F49BB7ABCAC}|UnitTestBaseConverter_16_Bao\\UnitTestRadix_16_Bao.csproj|e:\\doanktpm_16_bao\\unittestbaseconverter_16_bao\\unittest1_16_bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F0B036-3ACA-401C-9276-7F49BB7ABCAC}|UnitTestBaseConverter_16_Bao\\UnitTestRadix_16_Bao.csproj|solutionrelative:unittestbaseconverter_16_bao\\unittest1_16_bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2A63BF-8938-4769-B9C0-9DA34CDF26F2}|DoAnKTPM_16_Bao\\UnitTest_16_Bao.csproj|E:\\DoAnKTPM_16_Bao\\doanktpm_16_bao\\radix_16_bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2A63BF-8938-4769-B9C0-9DA34CDF26F2}|DoAnKTPM_16_Bao\\UnitTest_16_Bao.csproj|solutionrelative:doanktpm_16_bao\\radix_16_bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEA596D-7CE6-4462-922A-3EB608987B74}|SeleniumWebDriver_16_Bao\\SeleniumWebDriver_16_Bao.csproj|e:\\doanktpm_16_bao\\seleniumwebdriver_16_bao\\chucnang1_16_bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EEA596D-7CE6-4462-922A-3EB608987B74}|SeleniumWebDriver_16_Bao\\SeleniumWebDriver_16_Bao.csproj|solutionrelative:seleniumwebdriver_16_bao\\chucnang1_16_bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEA596D-7CE6-4462-922A-3EB608987B74}|SeleniumWebDriver_16_Bao\\SeleniumWebDriver_16_Bao.csproj|E:\\DoAnKTPM_16_Bao\\seleniumwebdriver_16_bao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEA596D-7CE6-4462-922A-3EB608987B74}|SeleniumWebDriver_16_Bao\\SeleniumWebDriver_16_Bao.csproj|solutionrelative:seleniumwebdriver_16_bao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F0B036-3ACA-401C-9276-7F49BB7ABCAC}|UnitTestBaseConverter_16_Bao\\UnitTestRadix_16_Bao.csproj|E:\\DoAnKTPM_16_Bao\\unittestbaseconverter_16_bao\\data_16_bao\\testdata3cot_16_bao.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29F0B036-3ACA-401C-9276-7F49BB7ABCAC}|UnitTestBaseConverter_16_Bao\\UnitTestRadix_16_Bao.csproj|solutionrelative:unittestbaseconverter_16_bao\\data_16_bao\\testdata3cot_16_bao.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEA596D-7CE6-4462-922A-3EB608987B74}|SeleniumWebDriver_16_Bao\\SeleniumWebDriver_16_Bao.csproj|E:\\DoAnKTPM_16_Bao\\seleniumwebdriver_16_bao\\chucnang2_16_bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEA596D-7CE6-4462-922A-3EB608987B74}|SeleniumWebDriver_16_Bao\\SeleniumWebDriver_16_Bao.csproj|solutionrelative:seleniumwebdriver_16_bao\\chucnang2_16_bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEA596D-7CE6-4462-922A-3EB608987B74}|SeleniumWebDriver_16_Bao\\SeleniumWebDriver_16_Bao.csproj|E:\\DoAnKTPM_16_Bao\\seleniumwebdriver_16_bao\\chucnang2_16_bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EEA596D-7CE6-4462-922A-3EB608987B74}|SeleniumWebDriver_16_Bao\\SeleniumWebDriver_16_Bao.csproj|solutionrelative:seleniumwebdriver_16_bao\\chucnang2_16_bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEA596D-7CE6-4462-922A-3EB608987B74}|SeleniumWebDriver_16_Bao\\SeleniumWebDriver_16_Bao.csproj|E:\\DoAnKTPM_16_Bao\\seleniumwebdriver_16_bao\\chucnang1_16_bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEA596D-7CE6-4462-922A-3EB608987B74}|SeleniumWebDriver_16_Bao\\SeleniumWebDriver_16_Bao.csproj|solutionrelative:seleniumwebdriver_16_bao\\chucnang1_16_bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1_16_Bao.cs",
+              "DocumentMoniker": "E:\\DoAnKTPM_16_Bao\\UnitTestBaseConverter_16_Bao\\UnitTest1_16_Bao.cs",
+              "RelativeDocumentMoniker": "UnitTestBaseConverter_16_Bao\\UnitTest1_16_Bao.cs",
+              "ToolTip": "E:\\DoAnKTPM_16_Bao\\UnitTestBaseConverter_16_Bao\\UnitTest1_16_Bao.cs",
+              "RelativeToolTip": "UnitTestBaseConverter_16_Bao\\UnitTest1_16_Bao.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:46:29.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DoAnKTPM_16_Bao\\SeleniumWebDriver_16_Bao\\Program.cs",
+              "RelativeDocumentMoniker": "SeleniumWebDriver_16_Bao\\Program.cs",
+              "ToolTip": "E:\\DoAnKTPM_16_Bao\\SeleniumWebDriver_16_Bao\\Program.cs",
+              "RelativeToolTip": "SeleniumWebDriver_16_Bao\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:52:58.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestData3Cot_16_Bao.csv",
+              "DocumentMoniker": "E:\\DoAnKTPM_16_Bao\\UnitTestBaseConverter_16_Bao\\Data_16_Bao\\TestData3Cot_16_Bao.csv",
+              "RelativeDocumentMoniker": "UnitTestBaseConverter_16_Bao\\Data_16_Bao\\TestData3Cot_16_Bao.csv",
+              "ToolTip": "E:\\DoAnKTPM_16_Bao\\UnitTestBaseConverter_16_Bao\\Data_16_Bao\\TestData3Cot_16_Bao.csv",
+              "RelativeToolTip": "UnitTestBaseConverter_16_Bao\\Data_16_Bao\\TestData3Cot_16_Bao.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-08T06:40:35.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChucNang2_16_Bao.cs",
+              "DocumentMoniker": "E:\\DoAnKTPM_16_Bao\\SeleniumWebDriver_16_Bao\\ChucNang2_16_Bao.cs",
+              "RelativeDocumentMoniker": "SeleniumWebDriver_16_Bao\\ChucNang2_16_Bao.cs",
+              "ToolTip": "E:\\DoAnKTPM_16_Bao\\SeleniumWebDriver_16_Bao\\ChucNang2_16_Bao.cs",
+              "RelativeToolTip": "SeleniumWebDriver_16_Bao\\ChucNang2_16_Bao.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswEYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:58:00.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChucNang1_16_Bao.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnKTPM_16_Bao\\SeleniumWebDriver_16_Bao\\ChucNang1_16_Bao.cs",
+              "RelativeDocumentMoniker": "SeleniumWebDriver_16_Bao\\ChucNang1_16_Bao.cs",
+              "ToolTip": "E:\\DoAnKTPM_16_Bao\\SeleniumWebDriver_16_Bao\\ChucNang1_16_Bao.cs [Design]",
+              "RelativeToolTip": "SeleniumWebDriver_16_Bao\\ChucNang1_16_Bao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:55:26.477Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Radix_16_Bao.cs",
+              "DocumentMoniker": "E:\\DoAnKTPM_16_Bao\\DoAnKTPM_16_Bao\\Radix_16_Bao.cs",
+              "RelativeDocumentMoniker": "DoAnKTPM_16_Bao\\Radix_16_Bao.cs",
+              "ToolTip": "E:\\DoAnKTPM_16_Bao\\DoAnKTPM_16_Bao\\Radix_16_Bao.cs",
+              "RelativeToolTip": "DoAnKTPM_16_Bao\\Radix_16_Bao.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:41:38.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChucNang2_16_Bao.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnKTPM_16_Bao\\SeleniumWebDriver_16_Bao\\ChucNang2_16_Bao.cs",
+              "RelativeDocumentMoniker": "SeleniumWebDriver_16_Bao\\ChucNang2_16_Bao.cs",
+              "ToolTip": "E:\\DoAnKTPM_16_Bao\\SeleniumWebDriver_16_Bao\\ChucNang2_16_Bao.cs [Design]",
+              "RelativeToolTip": "SeleniumWebDriver_16_Bao\\ChucNang2_16_Bao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:57:58.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChucNang1_16_Bao.cs",
+              "DocumentMoniker": "E:\\DoAnKTPM_16_Bao\\SeleniumWebDriver_16_Bao\\ChucNang1_16_Bao.cs",
+              "RelativeDocumentMoniker": "SeleniumWebDriver_16_Bao\\ChucNang1_16_Bao.cs",
+              "ToolTip": "E:\\DoAnKTPM_16_Bao\\SeleniumWebDriver_16_Bao\\ChucNang1_16_Bao.cs",
+              "RelativeToolTip": "SeleniumWebDriver_16_Bao\\ChucNang1_16_Bao.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:55:28.497Z"
             }
           ]
         }
